@@ -2,6 +2,7 @@
 
 Nama lengkap : Arif Kurniawan <br/>
 email : arif.kr96@gmail.com <br/>
+Catatan searching code di google dengan nama file : Pencarian Google JavaScript.txt dan Pencarian Google SQL.txt
 
 Open VSCode untuk menjalankan kode untuk TEST LOGIKA dengan nama file coding-test-BackEnd.js <br/>
 Berikut adalah hasil dari TEST LOGIKA :<br/>
