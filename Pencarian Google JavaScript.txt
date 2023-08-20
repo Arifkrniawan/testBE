@@ -1,0 +1,20 @@
+soal nomor 1 
+
+"how to create an array from 1 to N"
+
+soal nomor 2 
+
+"how to finding a specific word in JavaScript
+
+soal nomor 3 
+
+"Regex Javascript"
+"how to not include number in password JS"
+
+soal nomor 4
+
+"finding a smallest number in array using JavaScript"
+"for of JS"
+"finding the smallest missing int in array in JavaScript"
+"object with keys and value in JavaScript"
+

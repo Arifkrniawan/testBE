@@ -1,0 +1,14 @@
+nomor 1
+
+"How to create a new SQL from scratch"
+"Create Database MySql"
+
+nomor 2 
+
+"how to JOIN a table in MySQL"
+"COUNT in mySQL"
+"what is GROUP BY"
+
+nomor 4 
+
+"using count(*) > 1 in sql"
